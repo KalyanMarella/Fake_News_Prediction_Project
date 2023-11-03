@@ -1,0 +1,7 @@
+This project focuses on tackling the issue of fake news by employing machine learning techniques. Using Natural Language Processing (NLP) methods, specifically the TfidfVectorizer, the textual content of news articles is transformed into numerical vectors, enabling machine learning algorithms to process and analyze the data effectively. The project utilizes the PassiveAggressiveClassifier, a type of online learning algorithm, to make predictions about the authenticity of news articles.
+Key Features:
+-  TfidfVectorizer: Converts textual data into numerical vectors, making it suitable for machine learning analysis.
+-  PassiveAggressiveClassifier: An online learning algorithm used for binary classification tasks, perfect for detecting fake news.
+-  Accuracy:  The model's performance is evaluated based on its ability to accurately predict fake news articles.
+
+By combining these techniques, this project aims to provide an effective solution for identifying and combating the spread of misinformation in the digital age
